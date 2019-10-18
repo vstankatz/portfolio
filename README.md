@@ -1,12 +1,12 @@
-#_Portfolio Shmolio_
+# _Portfolio Shmolio_
 
-#### _{About Me Independent Project for Epicodus}, {10.18.2019}_
+#### _About Me Independent Project for Epicodus, 10.18.2019_
 
-#### By _**{Veronica Stanley-Katz}**_
+#### By _**Veronica Stanley-Katz**_
 
 ## Description
 
-_{This program was created to show potential employers my work and who I am. Scroll through to learn more about me or get links to my coding work. }_
+_This program was created to show potential employers my work and who I am. Scroll through to learn more about me or get links to my coding work._
 
 ## Setup/Installation Requirements
 
@@ -16,19 +16,19 @@ _{This program was created to show potential employers my work and who I am. Scr
 * _Hover over info and photos to see what changes_
 
 ## Known Bugs
-_{Formatting for bootstrap card components move to a weird/ nonintuitive design when you make your browser window tablet size. }_
+_Formatting for bootstrap card components move to a weird/ nonintuitive design when you make your browser window tablet size._
 
 ## Technologies suggested
-_{HTML}_
-_{CSS}_
-_{Markup}_
-_{Bootstrap}_
+* _HTML_
+* _CSS_
+* _Markup_
+* _Bootstrap_
 
 ### License
 
-Copyright (c) 2019 **_{Veronica Stanley-Katz}_**
+Copyright (c) 2019 **_Veronica Stanley-Katz_**
 
-*{MIT License
+MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -46,4 +46,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.}*
+SOFTWARE. 
