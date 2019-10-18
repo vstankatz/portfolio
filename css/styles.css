@@ -12,6 +12,12 @@ background-color: #e6f7ff;
   font-size: 100px;
 }
 
+#stars {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
 .center {
   text-align: center;
   animation:
@@ -37,6 +43,17 @@ background-color: #e6f7ff;
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
+}
+
+.side {
+  text-align: center;
+  color: maroon;
+}
+
+.side img {
+  float: left top;
+  width: 30%;
+  height: auto;
 }
 
 .box:hover img {
