@@ -1,5 +1,5 @@
 body {
-  
+
 }
 
 .header {
@@ -9,7 +9,7 @@ body {
 
 .center {
   text-align: center;
-  padding: auto;
+  animation:
 }
 
 #jazzy {
@@ -18,6 +18,18 @@ body {
 
 }
 
-.card-header {
+.card {
+  background-color: gray;
+  color: white;
+}
 
+.card:hover {
+  background-color: white;
+  color: black;
+
+}
+
+
+.card-header {
+text-align: center;
 }
