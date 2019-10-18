@@ -2,6 +2,11 @@ body {
 background-color: #e6f7ff;
 }
 
+.container {
+  margin: auto;
+  padding: inherit;
+}
+
 .header {
   text-align: center;
   font-size: 100px;
@@ -45,7 +50,7 @@ background-color: #e6f7ff;
 .text {
   background-color: #585858;
   color: white;
-  font-size: 16px;
+  font-size: auto;
   padding: inherit;
 }
 
@@ -56,12 +61,17 @@ background-color: #e6f7ff;
 .card {
   background-color: lightgray;
   color: black;
+  width: auto;
 }
 
 .card:hover {
   background-color: green;
   color: white;
 
+}
+
+.card:hover .list-group-item {
+  color: Black;
 }
 
 
@@ -82,4 +92,17 @@ a {
 .row {
   padding-top: 10px;
   padding-bottom: 10px;
+}
+
+.pop-up:hover {
+  background-color: pink;
+}
+
+.group img{
+  width: 100%;
+}
+
+.group p {
+  text-align: center;
+  font-style: italic;
 }
