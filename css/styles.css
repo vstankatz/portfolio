@@ -15,21 +15,37 @@ body {
 #jazzy {
   max-width: 100%;
   height: auto;
+  padding-bottom: 20px;
 
 }
 
 .card {
-  background-color: gray;
-  color: white;
+  background-color: lightgray;
+  color: black;
 }
 
 .card:hover {
-  background-color: white;
-  color: black;
+  background-color: green;
+  color: white;
 
 }
 
 
 .card-header {
 text-align: center;
+}
+
+.card-img-top {
+  display: inline;
+  width: 100%;
+  height:180px;
+}
+
+a {
+  color: darkblue;
+}
+
+.row {
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
