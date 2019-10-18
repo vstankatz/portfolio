@@ -10,7 +10,7 @@ _This program was created to show potential employers my work and who I am. Scro
 
 ## Setup/Installation Requirements
 
-* _Clone this repository_
+* _Clone this repository from https://github.com/vstankatz/portfolio_
 * _Open the downloaded folder and click Index.html_
 * _Scroll through page to see work_
 * _Hover over info and photos to see what changes_
@@ -46,4 +46,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE. 
+SOFTWARE.
