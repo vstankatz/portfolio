@@ -1,4 +1,4 @@
-#_{Portfolio Shmolio}_
+#_Portfolio Shmolio_
 
 #### _{About Me Independent Project for Epicodus}, {10.18.2019}_
 
