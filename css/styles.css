@@ -20,7 +20,6 @@ background-color: #e6f7ff;
 
 .center {
   text-align: center;
-  animation:
 }
 .box #middle {
   position: relative;
@@ -30,7 +29,7 @@ background-color: #e6f7ff;
 #jazzy {
   max-width: 100%;
   height: auto;
-  padding-bottom: 20px;
+  padding: 20px;
   transition: .5s ease;
   backface-visibility: hidden;
 }
@@ -69,6 +68,7 @@ background-color: #e6f7ff;
   color: white;
   font-size: auto;
   padding: inherit;
+
 }
 
 #about {
@@ -130,4 +130,26 @@ h2{
 h5 {
   text-align: center;
   text-decoration: underline;
+}
+
+@media screen and (max-width: 768px) {
+
+  .card-deck {
+    padding: 10px;
+    margin:auto;
+  }
+  .card {
+    text-align: left;
+    min-width: 50%;
+    margin-right: 10px;
+  }
+
+  ul {
+
+    margin-right: 15px;
+    padding-left: 0px;
+  }
+  .card-header {
+    font-size: 100%;
+  }
 }
