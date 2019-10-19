@@ -123,3 +123,11 @@ a {
   text-align: center;
   font-style: italic;
 }
+
+h2{
+  text-align: center;
+}
+h5 {
+  text-align: center;
+  text-decoration: underline;
+}
