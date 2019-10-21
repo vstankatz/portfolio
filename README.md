@@ -10,7 +10,7 @@ _This program was created to show potential employers my work and who I am. Scro
 
 ## Setup/Installation Requirements
 
-* _Clone this repository from https://github.com/vstankatz/portfolio_
+* _Clone this repository from https://vstankatz.github.io/portfolio/
 * _Open the downloaded folder and click Index.html_
 * _Scroll through page to see work_
 * _Hover over info and photos to see what changes_
